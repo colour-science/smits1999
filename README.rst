@@ -20,6 +20,6 @@ References
 About
 -----
 
-| **Smits1999** by Brian Smits - 1999 - 2014
-| Copyright © 1999 - 2014 – Brian Smits – `bes@cs.utah.edu <bes@cs.utah.edu>`_
-| `http://github.com/colour-science/Smits1999 <http://github.com/colour-science/Smits1999>`_
+| **Smits1999** by Brian Smits
+| Copyright © 1999-2014 – Brian Smits – `bes@cs.utah.edu <bes@cs.utah.edu>`__
+| `http://github.com/colour-science/Smits1999 <http://github.com/colour-science/Smits1999>`__
